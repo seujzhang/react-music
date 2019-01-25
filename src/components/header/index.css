@@ -1,0 +1,23 @@
+.header {
+    height: 40px;
+    width: 100%;
+    background-color: #bc2f2e;
+}
+
+.left {
+    float: left;
+    margin-left: 10px;
+    color: white;
+}
+
+.title {
+    color: white;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.right {
+    float: right;
+    margin-right: 30px;
+    line-height: 40px;
+}
